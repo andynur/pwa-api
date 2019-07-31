@@ -29,16 +29,6 @@
     {"id":27,"name":"Dale Walmsley","category":"Violet"},
     {"id":28,"name":"Raine Edmands","category":"Violet"},
     {"id":29,"name":"Bil Forde","category":"Violet"},
-    {"id":30,"name":"Alard Juliano","category":"Khaki"},
-    {"id":31,"name":"Rod Mathelin","category":"Violet"},
-    {"id":32,"name":"Margery Sockell","category":"Pink"},
-    {"id":33,"name":"Fifi McVity","category":"Teal"},
-    {"id":34,"name":"Nicolas Witheford","category":"Goldenrod"},
-    {"id":35,"name":"Kelila Daws","category":"Pink"},
-    {"id":36,"name":"Janka Wolstencroft","category":"Khaki"},
-    {"id":37,"name":"Roderich Jory","category":"Red"},
-    {"id":38,"name":"Ebonee Crowcher","category":"Crimson"},
-    {"id":39,"name":"Cassandre Clatworthy","category":"Fuscia"},
-    {"id":40,"name":"Rodolfo Wagerfield","category":"Fuscia"}
+    {"id":30,"name":"Alard Juliano","category":"Khaki"}
   ]
 }
